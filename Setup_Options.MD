@@ -26,7 +26,7 @@ the .... can be replaced with:
       this will make the image the same size as the window you're viewing it in.
       this is useful for when you're just testing.
 
-   2. NINE_LANDSCAPE
+   2. 242, 252, 217
       this will make the image the correct size for your hand-in of the 9 images
       but in landscape (2000 x 1000)
 
